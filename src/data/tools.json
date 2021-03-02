@@ -390,84 +390,6 @@
       ]
     },
     {
-      "img": "https://ph-files.imgix.net/ac22162c-a768-4403-874c-298cb3ebf226.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
-      "name": "Offen",
-      "desc": "A fair alternative to common web analytics tools.",
-      "url": "https://offen.dev",
-      "pricing": "Free Forever",
-      "category": "Analytics",
-      "makers": [ 
-        {
-          "img": "https://pbs.twimg.com/profile_images/1039813713937743872/9GM9Tnqz_400x400.jpg",
-          "twitter": "hniefeld"
-        }
-      ]
-    },
-    {
-      "img": "https://ph-files.imgix.net/5417ecb6-cc1b-46b8-9fb6-292a40f90990?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
-      "name": "Ackee",
-      "desc": "Self-hosted analytics tool for those who care about privacy.",
-      "url": "https://ackee.electerious.com",
-      "pricing": "Free Forever",
-      "category": "Analytics",
-      "makers": [ 
-        {
-          "img": "https://pbs.twimg.com/profile_images/1240227367177650177/3ti2sn0F_400x400.jpg",
-          "twitter": "electerious"
-        }
-      ]
-    },
-    {
-      "img": "https://ph-files.imgix.net/ae21a2c4-703d-4739-a686-7bcd644dd8f0.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=633&h=380&fit=max",
-      "name": "June",
-      "desc": "Instant analytics reports built on top of Segment.",
-      "url": "https://june.so",
-      "pricing": "Free + Paid",
-      "category": "Analytics",
-      "makers": [ 
-        {
-          "img": "https://pbs.twimg.com/profile_images/1028023570172002304/dqq5KT3M_400x400.jpg",
-          "twitter": "vortex_ape"
-        },
-        {
-          "img": "https://pbs.twimg.com/profile_images/1317150757477638144/ODoeqbIW_400x400.jpg",
-          "twitter": "0zne"
-        },
-        {
-          "img": "https://pbs.twimg.com/profile_images/1363607821166800897/Rf7JXb1W_400x400.jpg",
-          "twitter": "0xferruccio"
-        }
-      ]
-    },
-    {
-      "img": "https://ph-files.imgix.net/eefe5a92-7080-40bf-a103-abb9e9186da8.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
-      "name": "Panelbear",
-      "desc": "Simple and fast analytics, no compromising the privacy of visitors.",
-      "url": "https://panelbear.com",
-      "pricing": "Free + Paid",
-      "category": "Analytics",
-      "makers": [ 
-        {
-          "img": "https://pbs.twimg.com/profile_images/1360713063826096128/FizUgSKS_400x400.jpg",
-          "twitter": "anthonynsimon"
-        }
-      ]
-    },
-    {
-      "img": "https://ph-files.imgix.net/9ae85afc-b86d-453a-ae03-939143a020cf?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=612&h=380&fit=max",
-      "name": "Hotjar",
-      "desc": "See how visitors are using your site and get visual feedback.",
-      "url": "https://hotjar.com",
-      "pricing": "$99-$1000/mo",
-      "category": "Analytics",
-      "makers": [ 
-        {
-          "img": "https://pbs.twimg.com/profile_images/583387220549042177/SXppTddy_400x400.jpg",
-          "twitter": "daviddarmanin"
-        }
-      ]
-    },
-    {
       "img": "https://ph-files.imgix.net/4507ffd5-1c9e-42d5-baf3-204924752035?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
       "name": "Flat Icons",
       "desc": "20,000 unique, customizable icons with free lifetime updates.",
@@ -858,6 +780,240 @@
         {
           "img": "https://pbs.twimg.com/profile_images/1303418828169326595/wl7jss4v_400x400.jpg",
           "twitter": "mackenziechild"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/61eaa5d2-ae63-4fb0-886c-10a68c423381.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "VSCode Notion",
+      "desc": "Notion, right inside your favorite code editor.",
+      "url": "https://marketplace.visualstudio.com/items?itemName=frenco.vscode-notion",
+      "pricing": "Free Forever",
+      "category": "VSCode",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1282696206037028864/IkBrcFfX_400x400.jpg",
+          "twitter": "frencojobs"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/42c7d80d-daaf-4a65-869f-b0325ac15834.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "100 Days of Code",
+      "desc": "A VS Code extension to track your 100 Days of Code progress.",
+      "url": "https://software.com/100-days-of-code",
+      "pricing": "Free Forever",
+      "category": "VSCode",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1067856401496604672/MEmI7kYx_400x400.jpg",
+          "twitter": "theGeoffStevens"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/1283083843143114752/L4jO0x_X_400x400.jpg",
+          "twitter": "ShreyShah33"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/62f6d1ac-658e-4733-9ed2-f7a1146e4897.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Shortcut Menu Bar",
+      "desc": "Add handy buttons to editor toolbar in VSCode.",
+      "url": "https://marketplace.visualstudio.com/items?itemName=jerrygoyal.shortcut-menu-bar",
+      "pricing": "Free Forever",
+      "category": "VSCode",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1266032874249043968/upQM56zF_400x400.jpg",
+          "twitter": "GorvGoyl"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/cbb59f23-7f78-4c39-aca0-8ca0d10df264.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=623&h=380&fit=max",
+      "name": "Foam",
+      "desc": "Personal knowledge management and sharing on VSCode & GitHub.",
+      "url": "https://foambubble.github.io/foam",
+      "pricing": "Free Forever",
+      "category": "VSCode",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1260968240504856576/FNIWLC0A_400x400.jpg",
+          "twitter": "jevakallio"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/d6f6f2be-49ae-4266-973a-64e56cdf18a5.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=608&h=380&fit=max",
+      "name": "Save Code in VSCode",
+      "desc": "Save, view & sync snippets. Using keyboard shortcuts.",
+      "url": "https://thiscodeworks.com/extension/vscode",
+      "pricing": "Free Forever",
+      "category": "VSCode",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1360276731911938052/FY7DdtKx_400x400.jpg",
+          "twitter": "mishkaorakzai"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/9eff3c45-014a-4e03-a923-181d667ed4d8.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=575.8500669344043&h=380&fit=max",
+      "name": "CopyAI",
+      "desc": "GPT-3 powered copywriting tools.",
+      "url": "https://rezi.io/rezi-gpt-3-resume-builder",
+      "pricing": "Free Demo",
+      "category": "GPT-3",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1164911746655707136/YUj42rhQ_400x400.jpg",
+          "twitter": "PaulYacoubian"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/1291481749399183360/xqPFhPBS_400x400.jpg",
+          "twitter": "chris__lu"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/a42bce3f-a14e-45df-97e7-4a6059a5de10.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=615&h=380&fit=max",
+      "name": "IdeasAI",
+      "desc": "GPT-3 powered idea generator.",
+      "url": "https://ideas.ai",
+      "pricing": "Free Forever",
+      "category": "GPT-3",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1323795418686390272/vdMiSnFe_400x400.jpg",
+          "twitter": "levelsio"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/94384e97-4603-4eb6-a474-a46f7370a36c.jpeg?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Growth Hack AI",
+      "desc": "Free GPT-3 powered growth strategies to boost your startup.",
+      "url": "https://writesonic.com/tools/growth-hacks-generator",
+      "pricing": "Free Forever",
+      "category": "GPT-3",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1169928041994149888/MwsSGyDM_400x400.jpg",
+          "twitter": "SamanyouGarg"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/38a10dc5-452b-46e4-9b5f-dc0500598bf0.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "GPT-3 Books",
+      "desc": "Book recommendations powered by OpenAI.",
+      "url": "https://mostrecommendedbooks.com/gpt3",
+      "pricing": "Free Forever",
+      "category": "GPT-3",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1241243742993911812/RVcp59aF_400x400.jpg",
+          "twitter": "anuragwho"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/1329465778261827584/L8430m4T_400x400.jpg",
+          "twitter": "richardreeze"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/ed3ea2f2-d30d-4106-b143-a638c700b00e.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Rezi",
+      "desc": "Automatically Write Your Resume With Our AI Resume Builder.",
+      "url": "https://rezi.io/rezi-gpt-3-resume-builder",
+      "pricing": "Free Demo",
+      "category": "GPT-3",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1227148791213510658/Gt8h8b3z_400x400.jpg",
+          "twitter": "jacob_jacquet"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/495980633512869889/MnK6K-ck_400x400.jpeg",
+          "twitter": "LucLMZ"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/ac22162c-a768-4403-874c-298cb3ebf226.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Offen",
+      "desc": "A fair alternative to common web analytics tools.",
+      "url": "https://offen.dev",
+      "pricing": "Free Forever",
+      "category": "Analytics",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1039813713937743872/9GM9Tnqz_400x400.jpg",
+          "twitter": "hniefeld"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/5417ecb6-cc1b-46b8-9fb6-292a40f90990?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Ackee",
+      "desc": "Self-hosted analytics tool for those who care about privacy.",
+      "url": "https://ackee.electerious.com",
+      "pricing": "Free Forever",
+      "category": "Analytics",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1240227367177650177/3ti2sn0F_400x400.jpg",
+          "twitter": "electerious"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/ae21a2c4-703d-4739-a686-7bcd644dd8f0.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=633&h=380&fit=max",
+      "name": "June",
+      "desc": "Instant analytics reports built on top of Segment.",
+      "url": "https://june.so",
+      "pricing": "Free + Paid",
+      "category": "Analytics",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1028023570172002304/dqq5KT3M_400x400.jpg",
+          "twitter": "vortex_ape"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/1317150757477638144/ODoeqbIW_400x400.jpg",
+          "twitter": "0zne"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/1363607821166800897/Rf7JXb1W_400x400.jpg",
+          "twitter": "0xferruccio"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/eefe5a92-7080-40bf-a103-abb9e9186da8.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Panelbear",
+      "desc": "Simple and fast analytics, no compromising the privacy of visitors.",
+      "url": "https://panelbear.com",
+      "pricing": "Free + Paid",
+      "category": "Analytics",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1360713063826096128/FizUgSKS_400x400.jpg",
+          "twitter": "anthonynsimon"
+        }
+      ]
+    },
+    {
+      "img": "https://ph-files.imgix.net/9ae85afc-b86d-453a-ae03-939143a020cf?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=612&h=380&fit=max",
+      "name": "Hotjar",
+      "desc": "See how visitors are using your site and get visual feedback.",
+      "url": "https://hotjar.com",
+      "pricing": "$99-$1000/mo",
+      "category": "Analytics",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/583387220549042177/SXppTddy_400x400.jpg",
+          "twitter": "daviddarmanin"
         }
       ]
     },
