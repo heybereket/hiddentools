@@ -50,7 +50,7 @@ const Home = () => {
 
   return (
     <div>
-      <Banner title="submit.hiddentools@gmail.com 🚀"/>
+      <Banner title="We're currently in early release :) 🚀"/>
       <br/><br/><br/><br/>
       
       <header>
