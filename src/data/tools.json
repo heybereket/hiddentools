@@ -86,6 +86,154 @@
       ]
     }, 
     {
+      "img": "https://ph-files.imgix.net/3a9a5b2d-89eb-4ed6-a469-7a2eca855dd4?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=633&h=380&fit=max",
+      "name": "Gradients for Sketch",
+      "desc": "Free UI gradients template with styles and fills.",
+      "url": "https://gumroad.com/l/gradients",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1175933259529670656/Krjerbu7_400x400.jpg",
+          "twitter": "stas_kulesh"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/1304462472271798278/wBAZLY_S_400x400.jpg",
+          "twitter": "alexeevdev"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/4f52eac8-de49-49dd-ae28-9e02cc7ade15?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=629&h=380&fit=max",
+      "name": "Gradients Party",
+      "desc": "Gradients is a collection🗃️ of gradients for your buttons.",
+      "url": "https://gradients.party",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1210554870702465024/on7YwBPY_400x400.jpg",
+          "twitter": "apvarun"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/e3dbea11-bdb0-426d-af0c-323a40eaf1f0?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=620&h=380&fit=max",
+      "name": "CSS Gradient",
+      "desc": "A simple, colorful gradient generator for your next project.",
+      "url": "https://cssgradient.io",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1310078266959491073/mqh7RRfO_400x400.jpg",
+          "twitter": "moeamaya"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/fc934d32-eb72-4048-9ff4-dfbb7d4a8f9f?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=620&h=380&fit=max",
+      "name": "Gradient Backgrounds",
+      "desc": "Find gradients for backgrounds or text all in one place",
+      "url": "https://cssgradient.io/gradient-backgrounds",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1310078266959491073/mqh7RRfO_400x400.jpg",
+          "twitter": "moeamaya"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/5ab8cb07-f246-41b2-9443-a49b4cca225a?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=638&h=380&fit=max",
+      "name": "Gradient Buttons",
+      "desc": "Beautiful buttons with hover animations, all for free.",
+      "url": "https://gradientbuttons.colorion.co",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1349436315314622464/H2muCKsL_400x400.jpg",
+          "twitter": "csaba_kissi"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/74011366-6492-4c90-902f-4660e162d0f4?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Gradienta",
+      "desc": "Open-source multi-layered CSS gradients with JPG downloads.",
+      "url": "https://gradienta.io",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/797499925072265216/f5zNS8gW_400x400.jpg",
+          "twitter": "zonayedpca"
+        },
+        {
+          "img": "https://pbs.twimg.com/profile_images/471149953822105600/OrzHa9Jv_400x400.jpeg",
+          "twitter": "HiShahadat"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/117bf392-e499-4c62-918b-38d2c37a095a?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Color Gradient Generator",
+      "desc": "A novel and easy way to design beautiful color gradients.",
+      "url": "https://mybrandnewlogo.com/color-gradient-generator",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/852059523116347392/igVN5Kl4_400x400.jpg",
+          "twitter": "monokai"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/c39d6fee-834c-47f1-a1a5-ab6bff0a4228?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=619&h=380&fit=max",
+      "name": "Mesh Gradient",
+      "desc": "A simple way to create beautiful, unique gradients using shaders.",
+      "url": "https://meshgradient.com",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1173456189482569728/dxFQy9B6_400x400.png",
+          "twitter": "deadlocked_d"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/c3cc6197-6c1f-4b08-872a-b503b30177b1?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=620&h=380&fit=max",
+      "name": "Mesh Gradient",
+      "desc": "Coolest Gradient Hues and Swatches, copy or download!",
+      "url": "https://webkul.github.io/coolhue",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1360280183673036801/Y1MP0wh2_400x400.jpg",
+          "twitter": "nitishkmrk"
+        }
+      ]
+    }, 
+    {
+      "img": "https://ph-files.imgix.net/172dd7e3-1f33-4436-ba9b-93512b1db58e.jpeg?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=640&h=380&fit=max",
+      "name": "ColorDoo",
+      "desc": "We showcase top trending color collection and gradient.",
+      "url": "https://designkiki.com/colordoo",
+      "pricing": "Free Forever",
+      "category": "Gradients",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1245447933073317893/o5IOO8J0_400x400.jpg",
+          "twitter": "Designkiki1"
+        }
+      ]
+    }, 
+    {
       "img": "https://ph-files.imgix.net/82b00020-d3c3-4dae-b31a-09e4c0791293?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
       "name": "Marked.cc",
       "desc": "📝 Create and share beautiful images of your notes and prose.",

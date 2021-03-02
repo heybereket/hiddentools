@@ -4,7 +4,6 @@ import logo from '../assets/hiddentools-logo.png'
 import { useState, useEffect } from 'react';
 import { Banner, Footer } from '../components'
 import { countBy } from 'lodash';
-import { FaTwitter, FaEnvelope } from 'react-icons/fa';
 
 const Home = () => {
   
