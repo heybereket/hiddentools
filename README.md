@@ -1,2 +1,2 @@
-<img src="https://i.ibb.co/55x5CP0/Capture.png" width=450>
+<img src="https://i.ibb.co/55x5CP0/Capture.png" width=500>
 
