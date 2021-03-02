@@ -1,2 +1,2 @@
-<img src="https://i.ibb.co/my1Qb1Y/Capture.png" width=450>
-A collection of hand curated tools for founders, developers and designers. 
+<img src="https://i.ibb.co/55x5CP0/Capture.png" width=450>
+
