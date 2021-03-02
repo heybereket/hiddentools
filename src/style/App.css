@@ -15,14 +15,8 @@ body {
   background-color: #131313;
   background-repeat: no-repeat;
   background-size: cover;
-  animation: FadeIn 2s;
   transition: all 0.15s ease;
   overflow-x: hidden;
-}
-
-@keyframes FadeIn {
-    from { opacity: 0}
-    to   { opacity: 1}
 }
 
 a {
