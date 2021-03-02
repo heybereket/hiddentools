@@ -229,6 +229,16 @@ h1 {
   margin-top: 20px;
 }
 
+.share-wrapper {
+  text-align: right;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.share-twitter {
+  margin-right: 10px;
+}
+
 /* page settings */
 
 button {

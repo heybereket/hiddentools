@@ -4,6 +4,7 @@ import logo from '../assets/hiddentools-logo.png'
 import { useState, useEffect } from 'react';
 import { Banner, Footer } from '../components'
 import { countBy } from 'lodash';
+import { FaTwitter, FaEnvelope } from 'react-icons/fa';
 
 const Home = () => {
   
@@ -91,16 +92,17 @@ const Home = () => {
               <p>{tool.name}</p>
               <small>{tool.desc}</small>
 
+
               <div className="category-wrapper">
                 <button className="pricing">💰 {tool.pricing}</button>
                 <button className="category">🔥 {tool.category}</button>
               </div>
+
               <div className="makers-wrapper">
-                
                 {tool.makers.map(maker => (
                    <a href={`https://twitter.com/${maker.twitter}`} title={maker.twitter} target="_blank" rel="noreferrer"><img alt={`${maker.twitter.toLowerCase()}'s picture`} className="maker" src={maker.img}/></a>
                 ))}
-              </div>
+              </div>  
             </div>
           </a>
         ))}
