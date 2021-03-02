@@ -30,6 +30,20 @@
       ]
     },
     {
+      "img": "https://ph-files.imgix.net/32e29c62-0d7a-4075-929f-9c472916c159.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Kitemaker",
+      "desc": "A fast tool for product collaboration and discussions.",
+      "url": "https://kitemaker.co",
+      "pricing": "Free Forever",
+      "category": "Featured",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1263434701626388482/k8oD7TyE_400x400.jpg",
+          "twitter": "SigurdSeteklev"
+        }
+      ]
+    },
+    {
       "img": "https://ph-files.imgix.net/0ca3ccff-c263-4feb-a90d-fd91b1f612cf?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
       "name": "MicroAcquire",
       "desc": "A free & anonymous startup acquisition marketplace.",
@@ -38,62 +52,36 @@
       "category": "Featured",
       "makers": [ 
         {
-          "img": "https://pbs.twimg.com/profile_images/1266603428542771200/Kr6ZilO-_400x400.jpg",
-          "twitter": "craigbrott"
-        },
-        {
-          "img": "https://pbs.twimg.com/profile_images/937142984419688448/bvvZyMNa_400x400.jpg",
-          "twitter": "brahnema"
+          "img": "https://pbs.twimg.com/profile_images/1279952488200724482/zAifFe-0_400x400.jpg",
+          "twitter": "agazdecki"
         }
       ]
     },
     {
-      "img": "https://ph-files.imgix.net/82b00020-d3c3-4dae-b31a-09e4c0791293?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
-      "name": "Marked.cc",
-      "desc": "📝 Create and share beautiful images of your notes and prose.",
-      "url": "https://marked.cc",
-      "pricing": "14 days free",
-      "category": "Text Editors",
-      "makers": [ 
-        {
-          "img": "https://pbs.twimg.com/profile_images/1226908789934350337/U6-d-poM_400x400.jpg",
-          "twitter": "mohammadsjaber"
-        }
-      ]
-    },
-    {
-      "img": "https://ph-files.imgix.net/9bb78800-6477-466a-87c5-77397a7290ed.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=608&h=380&fit=max",
+      "img": "https://ph-files.imgix.net/040b5a22-99e7-41b9-b67b-b76ca57e120d.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
       "name": "Screenstab",
-      "desc": "Screenshots that sick out.",
-      "url": "https://screenstab.com/editor",
-      "pricing": "Free + Paid",
-      "category": "Design",
+      "desc": "An API to magically preview any link with a ton of features, for free ✨",
+      "url": "https://peekalink.io",
+      "pricing": "Free Forever",
+      "category": "Featured",
       "makers": [ 
         {
-          "img": "https://pbs.twimg.com/profile_images/1266603428542771200/Kr6ZilO-_400x400.jpg",
-          "twitter": "craigbrott"
-        },
-        {
-          "img": "https://pbs.twimg.com/profile_images/937142984419688448/bvvZyMNa_400x400.jpg",
-          "twitter": "brahnema"
+          "img": "https://pbs.twimg.com/profile_images/1362845870543302658/09o1RC44_400x400.jpg",
+          "twitter": "lifenautjoe"
         }
       ]
     },
     {
-      "img": "https://ph-files.imgix.net/9bb78800-6477-466a-87c5-77397a7290ed.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=608&h=380&fit=max",
-      "name": "Screenstab",
-      "desc": "Screenshots that sick out.",
-      "url": "https://screenstab.com/editor",
-      "pricing": "Free + Paid",
-      "category": "Design",
+      "img": "https://ph-files.imgix.net/5760ace4-3418-4801-8e49-af54965b7130.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
+      "name": "Testimonial",
+      "desc": "Collect video testimonials in the simplest way.",
+      "url": "https://testimonial.to",
+      "pricing": "3 videos free",
+      "category": "Featured",
       "makers": [ 
         {
-          "img": "https://pbs.twimg.com/profile_images/1266603428542771200/Kr6ZilO-_400x400.jpg",
-          "twitter": "craigbrott"
-        },
-        {
-          "img": "https://pbs.twimg.com/profile_images/937142984419688448/bvvZyMNa_400x400.jpg",
-          "twitter": "brahnema"
+          "img": "https://pbs.twimg.com/profile_images/1212980952898555905/c8ZW3bfw_400x400.jpg",
+          "twitter": "damengchen"
         }
       ]
     },
