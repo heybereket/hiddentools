@@ -165,7 +165,6 @@ h1 {
   padding: 1rem;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
   max-width: 100%;
 }
 
@@ -190,6 +189,7 @@ h1 {
 
 .display {
   border-radius: 10px;
+  max-width: 100%;
 }
 
 .tool > p {
