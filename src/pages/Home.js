@@ -48,6 +48,11 @@ const Home = () => {
     )
   }
 
+  const handleNotFoundImage = (e)=>{
+    e.target.onerror = null;
+    e.target.src = "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png";
+  }
+
   return (
     <div>
       <Banner title="We're currently in early release :) 🚀"/>
@@ -99,7 +104,14 @@ const Home = () => {
 
               <div className="makers-wrapper">
                 {tool.makers.map(maker => (
-                   <a href={`https://twitter.com/${maker.twitter}`} title={maker.twitter} target="_blank" rel="noreferrer"><img alt={`${maker.twitter.toLowerCase()}'s picture`} className="maker" src={maker.img}/></a>
+                  <a href={`https://twitter.com/${maker.twitter}`} title={maker.twitter} target="_blank" rel="noreferrer">
+                    <img
+                      alt={`${maker.twitter.toLowerCase()}'s picture`}
+                      className="maker"
+                      src={maker.img}
+                      onError={handleNotFoundImage}
+                    />
+                  </a>
                 ))}
               </div>  
             </div>
