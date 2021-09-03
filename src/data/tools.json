@@ -1,5 +1,19 @@
 [
     {
+      "img": "https://graphite.space/static/a1c73c12c47a60d618d38efdd12e169b/0505c/editor-first.webp",
+      "name": "Graphite",
+      "desc": "Create beautiful website without any code",
+      "url": "https://graphite.space/",
+      "pricing": "Free Forever",
+      "category": "Website Builders",
+      "makers": [ 
+        {
+          "img": "https://pbs.twimg.com/profile_images/1408367455882338312/WqYWgGWM_400x400.jpg",
+          "twitter": "graphite.space"
+        }
+      ]
+    },
+    {
       "img": "https://ph-files.imgix.net/9abd55f9-6c3d-43a7-a458-785a18710986.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=635&h=380&fit=max",
       "name": "Ray.so",
       "desc": "Create beautiful images of your code, customize it, and share it.",
