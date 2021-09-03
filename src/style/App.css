@@ -205,7 +205,9 @@ h1 {
 
 .maker {
   border-radius: 50%;
-  width: 24px;
+  max-width: 24px;
+  max-height: 24px;
+  overflow: hidden;
   border: 1.99px solid #fff;
   margin-left: 5px;
   margin-top: -10px;
