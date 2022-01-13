@@ -15,6 +15,7 @@ interface HomeProps {
 const Home: React.FC<HomeProps> = (props) => {
   const [tools, setTools] = useState([]);
   const [query, setQuery] = useState('');
+  const [viewCategories, setViewCategories] = useState(false);
 
   const filterTools = () => {
     return tools.filter((tool: Tool) =>
@@ -83,7 +84,20 @@ const Home: React.FC<HomeProps> = (props) => {
         </Link>
       </div>
 
-      <div className="space-y-3 mt-5 md:mt-2">
+      {!viewCategories && (
+        <button
+          className="block md:hidden text-gray-500 dark:text-primary-100 mt-4 font-semibold"
+          onClick={() => setViewCategories(true)}
+        >
+          Categories are hidden. View categories -&gt;
+        </button>
+      )}
+
+      <div
+        className={`space-y-3 mt-5 md:mt-2 ${
+          viewCategories ? 'block' : 'hidden'
+        }`}
+      >
         <button
           className="bg-secondary hover:bg-gray-700 hover:cursor-pointer mr-3 focus:cursor-pointer px-3 py-2 rounded-lg text-xs cursor-auto"
           onClick={() => setTools(props.tools.sort(() => Math.random() - 0.5))}
