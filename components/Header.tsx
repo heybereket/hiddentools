@@ -5,7 +5,7 @@ export const Header = () => {
         Hidden Tools
       </h1>
       <p className="text-md md:text-lg">
-        ✨ Discover a wide collection of tools made by builders.
+        ✨ Discover a wide collection of unique tools.
       </p>
     </div>
   );

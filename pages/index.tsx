@@ -57,7 +57,7 @@ const Home: React.FC<HomeProps> = (props) => {
         <span>
           OSS @{' '}
           <a
-            href="https://github.com/heybereket"
+            href="https://github.com/heybereket/hiddentools"
             target="_blank"
             rel="noreferrer"
             className="text-blue-500 hover:text-blue-300 cursor-pointer"
