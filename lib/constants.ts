@@ -8,6 +8,8 @@ export const CATEGORIES = [
     'Marketing',
     'User Experience',
     'Design Tools',
+    'Figma',
+    'Open Source',
     'Analytics',
     'Extensions',
     'Mobile Apps',
