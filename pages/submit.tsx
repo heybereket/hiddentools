@@ -10,8 +10,6 @@ const Tool = () => {
   const [toolCategory, setToolCategory] = useState('');
   const [error, setError] = useState('');
 
-  console.log(toolCategory);
-
   const submitTool = async () => {
     if (!toolName || !toolLink || !toolCategory) {
       return setError('Please fill out all fields');
