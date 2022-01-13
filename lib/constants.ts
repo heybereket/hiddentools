@@ -9,5 +9,13 @@ export const CATEGORIES = [
     'User Experience',
     'Design Tools',
     'Analytics',
+    'Extensions',
+    'Mobile Apps',
+    'Games',
+    'Books',
+    'APIs',
+    'Video Streaming',
+    'Music',
+    'Health & Fitness',
     'Other',
   ];
