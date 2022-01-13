@@ -11,7 +11,7 @@ const Tool = () => {
   const [error, setError] = useState('');
 
   const submitTool = async () => {
-    if (!toolName || !toolLink || !toolCategory) {
+    if (!toolLink || !toolCategory) {
       return setError('Please fill out all fields');
     }
 
@@ -32,7 +32,7 @@ const Tool = () => {
 
       <div className="mt-3">
         <label className="text-sm text-gray-400">
-          *description is optional*
+          *title & description are optional*
         </label>
         {error && <p className="text-sm text-red-500">{error}</p>}
       </div>

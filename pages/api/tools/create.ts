@@ -11,7 +11,7 @@ export default async function handler(
 
   await prisma.tool.create({
     data: {
-      name: name as string,
+      name: name ? name : data.title,
       desc: desc ? desc : data.desc,
       link,
       image: data.image,
