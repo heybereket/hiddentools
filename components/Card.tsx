@@ -12,7 +12,7 @@ const Warning = (props: any) => {
   );
 };
 
-const Banner = (props: any): JSX.Element => {
+const Image = (props: any): JSX.Element => {
   switch (props.image) {
     case 'image_error':
       return (
@@ -41,7 +41,8 @@ export const Card = (props: any) => {
         target="_blank"
         rel="noreferrer"
       >
-        <Banner image={props.image} name={props.name} />
+        {/* eslint-disable-next-line jsx-a11y/alt-text */}
+        <Image image={props.image} name={props.name} />
       </a>
       <div className="mt-3">
         <a
