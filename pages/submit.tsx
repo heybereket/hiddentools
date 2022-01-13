@@ -1,7 +1,6 @@
 import axios from 'axios';
 import { useState } from 'react';
 import { Header } from '../components/Header';
-import { Footer } from '../components/Footer';
 import { CATEGORIES } from '../lib/constants';
 
 const Tool = () => {
@@ -91,8 +90,6 @@ const Tool = () => {
         Upon submitting your tool, it will be required to pass verification
         before being posted to Hidden Tools.
       </label>
-
-      <Footer />
     </div>
   );
 };

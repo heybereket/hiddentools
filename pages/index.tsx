@@ -42,32 +42,6 @@ const Home: React.FC<HomeProps> = (props) => {
     <div className="px-16 py-16 md:py-0">
       <Header />
 
-      <div className="mt-3 text-sm">
-        <span>
-          Built by{' '}
-          <a
-            href="https://twitter.com/heybereket"
-            target="_blank"
-            rel="noreferrer"
-            className="text-blue-500 hover:text-blue-300 cursor-pointer"
-          >
-            @heybereket
-          </a>{' '}
-          -{' '}
-        </span>
-        <span>
-          OSS @{' '}
-          <a
-            href="https://github.com/heybereket/hiddentools"
-            target="_blank"
-            rel="noreferrer"
-            className="text-blue-500 hover:text-blue-300 cursor-pointer"
-          >
-            heybereket/hiddentools
-          </a>
-        </span>
-      </div>
-
       <div className="flex space-x-4 mt-4">
         <input
           type="text"
