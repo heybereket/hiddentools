@@ -1,12 +1,12 @@
 import axios from 'axios';
 import type { GetStaticProps } from 'next';
 import { Key, SetStateAction, useEffect, useState } from 'react';
-import { fetcher } from './lib/fetcher';
-import { Tool } from './types/Tool';
-import { Header } from './components/Header';
-import { Card } from './components/Card';
+import { fetcher } from '../lib/fetcher';
+import { Tool } from '../types/Tool';
+import { Header } from '../components/Header';
+import { Card } from '../components/Card';
 import Link from 'next/link';
-import { CATEGORIES } from './lib/constants';
+import { CATEGORIES } from '../lib/constants';
 
 interface HomeProps {
   tools: any;

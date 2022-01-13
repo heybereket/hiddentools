@@ -1,8 +1,8 @@
 import axios from 'axios';
 import { useState } from 'react';
-import { Header } from './components/Header';
-import { Footer } from './components/Footer';
-import { CATEGORIES } from './lib/constants';
+import { Header } from '../components/Header';
+import { Footer } from '../components/Footer';
+import { CATEGORIES } from '../lib/constants';
 
 const Tool = () => {
   const [toolName, setToolName] = useState('');
