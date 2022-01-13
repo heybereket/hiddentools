@@ -1,5 +1,4 @@
 import cheerio from 'cheerio';
-import { DEFAULT_IMAGE_URL } from './constants';
 import { formatImageUrl } from './format';
 
 export const metadata = async (link: string) => {
@@ -23,6 +22,6 @@ export const metadata = async (link: string) => {
   return {
     title: title as string,
     desc: description as string,
-    image: formatImageUrl(link, image as string) ?? DEFAULT_IMAGE_URL,
+    image: formatImageUrl(link, image as string) ?? 'image_error',
   };
 };
