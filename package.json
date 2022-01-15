@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/line-clamp": "^0.3.1",
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
     "colorette": "^2.0.16",

@@ -13,6 +13,7 @@ export const CATEGORIES = [
     'Figma',
     'Notion',
     'Gumroad',
+    'Visual Studio Code',
     'Investing',
     'SAAS',
     'Typography',

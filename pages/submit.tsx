@@ -69,7 +69,7 @@ const Tool = () => {
           <option selected disabled>
             Category -&gt;
           </option>
-          {CATEGORIES.map((category: string) => (
+          {CATEGORIES.sort().map((category: string) => (
             <option key={category} value={category}>
               {category}
             </option>

@@ -54,7 +54,7 @@ export const Card = (props: any) => {
             {props.name}
           </h2>
         </a>
-        <p className="mt-1 text-sm">{props.desc}</p>
+        <p className="mt-1 text-sm line-clamp-3">{props.desc}</p>
         <button className="bg-secondary px-3 py-2 rounded-lg mt-2 text-xs cursor-auto">
           {props.category}
         </button>

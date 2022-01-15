@@ -30,7 +30,7 @@ const Home: React.FC<HomeProps> = (props) => {
       setTools(props.tools.sort(() => Math.random() - 0.5));
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [query]);
+  }, [query, props.tools]);
 
   const changeSearch = (event: {
     target: { value: SetStateAction<string> };
