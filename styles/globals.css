@@ -24,3 +24,13 @@ select {
   -moz-appearance: none;
   appearance: none; 
 }
+
+img.rounded-lg.hover\:opacity-50 {
+  height: 9em;
+  width: 100%;
+  object-fit: cover;
+}
+
+.border-2.border-white.hover\:opacity-50.rounded-lg.px-9.py-\[35px\].flex.items-center.justify-center {
+  height: 9em;
+}
